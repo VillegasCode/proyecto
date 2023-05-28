@@ -65,8 +65,7 @@ header h1 {
 /* ESTILOS DE LA BARRA DE NAVEGACIÓN */
 .nav {
     grid-area: nav;
-    border: 5px solid black;
-    background-color: lightgray;
+    background: linear-gradient(90deg, #03228f 10%, #0e73e4 100%);
 }
 
 .content {
