@@ -108,6 +108,7 @@ header h1 {
 /*Estilos para cada item de película*/
 .peli-item {
     width: 25%;
+    flex-grow: 1;
     background: white;
     border-radius: 10px;
     box-shadow: 0px 0px 6px #ddd;
